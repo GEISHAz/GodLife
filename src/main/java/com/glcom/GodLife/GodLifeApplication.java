@@ -1,13 +1,13 @@
-package com.glcom.godlife;
+package com.glcom.GodLife;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GodlifeApplication {
+public class GodLifeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GodlifeApplication.class, args);
+        SpringApplication.run(GodLifeApplication.class, args);
     }
 
 }
